@@ -3,5 +3,6 @@ b3log/siyuan
 bitnami/minio
 snowdreamtech/frps
 snowdreamtech/frpc
+cnk3x/xunlei:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
